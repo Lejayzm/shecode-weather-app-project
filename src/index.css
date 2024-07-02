@@ -12,3 +12,13 @@ h1{
 .icon{
  font-size: 80px;
 }
+
+.weather-feature{
+background: #5186A6;
+border-color: #5F8FAB;
+border-radius: 24px;
+max-width: 600px;
+margin: 50px auto;
+padding: 30px;
+}
+
